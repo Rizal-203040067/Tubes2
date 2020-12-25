@@ -1,0 +1,37 @@
+body, html {
+    height: 100%;
+  }
+
+.parallax {
+    /* The image used */
+    background-image: url("../image/clientbg.jpg");
+  
+    /* Set a specific height */
+    height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .cl3 {
+      height: 100px;
+      width: 300px;
+  }
+
+  .cl4 {
+      height: 200px;
+      width: 150px;
+  }
+
+  .cl5 {
+      height: 150px;
+      width: 250px;
+  }
+
+  .cl6 {
+      height: 200px;
+      width: 200px;
+  }
