@@ -2,6 +2,11 @@ body, html {
     height: 100%;
   }
 
+.project {
+    background-color: #adafff;
+    margin-bottom: 100px;
+}
+
 .parallax {
     /* The image used */
     background-image: url("../image/clientbg.jpg");
