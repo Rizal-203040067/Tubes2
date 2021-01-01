@@ -1,0 +1,17 @@
+award = https://www.pngdownload.id/png-mite66/
+
+talk = https://www.freepik.com/free-vector/man-shows-gesture-great-idea_10541562.htm#page=1&query=Idea&position=1
+
+p1 & cl4 = shopee.com
+
+p2 & cl5 = albiononline.com
+
+p4 & cl6 = facebook.com
+
+cl1 = gojek.com
+
+cl2 = tokopedia.com
+
+profile = freepik.com
+
+cl3 = traveloka.com

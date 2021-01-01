@@ -2,6 +2,10 @@ body, html {
     height: 100%;
   }
 
+  .color-text {
+      color: #0f3057;
+  }
+
 .project {
     background-color: #adafff;
     margin-bottom: 100px;
@@ -39,4 +43,12 @@ body, html {
   .cl6 {
       height: 200px;
       width: 200px;
+  }
+
+  .col-award{
+      border: 1px solid black;
+  }
+
+  .talk {
+    background-color: #bfc0fc;
   }
